@@ -1,4 +1,5 @@
 //class to create players and organize their data for the sake of ranking and retrieval
+// Developed by Caleb Nartey
 public class playerData {
     String name;
     double points;
