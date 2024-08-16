@@ -3,6 +3,7 @@ import java.util.*;
 import java.util.stream.Collectors;
 
 //class to rank players by their TS% and prompt users to retrieve the information theyre looking for
+// Developed by Caleb Nartey
 public class scorersRanking {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
